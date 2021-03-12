@@ -1,0 +1,8 @@
+version: "3.0"
+services:
+  jupyter:
+    image: lrucourses/adm-activite-2:latest
+    ports:
+      - "8888:8888"
+    volumes:
+      - ".:/work"
