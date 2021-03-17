@@ -1,6 +1,7 @@
 # ADM-classroom
 
 Clement Boesmier
+Thi Anh Thu Nguyen
 
 # Analyse de grandes quantités de textes
 
